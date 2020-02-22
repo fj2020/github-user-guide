@@ -13,4 +13,5 @@
 
 ## github 新手教程
 
+    git config -l
 
