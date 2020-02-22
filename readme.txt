@@ -1,1 +1,1 @@
-Github user guide.
+## GitHub 新手使用手册
