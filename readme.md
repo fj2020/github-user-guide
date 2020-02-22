@@ -10,6 +10,7 @@
 
 **5、Markdown基本语法：https://www.jianshu.com/p/191d1e21f7ed/**
 
+**6、github 简单使用视频教程：https://www.youtube.com/watch?v=iX_T7EK-Dk0**
 
 ## github 新手教程
 
