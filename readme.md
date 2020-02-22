@@ -26,10 +26,17 @@
 
 3、本地电脑安装git软件，保持默认安装选项即可,然后在程序中找到，安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功
 
-4、
+4、安装完成后，还需要最后一步设置，在命令行输入：
+git config --global user.name "Your Name"             ----使用注册github账号的Username
+git config --global user.email "email@example.com"    ----使用注册github账号时所用的邮箱
 
-
-
+5、进入test 目录里面，在命令行输入：
+echo "# test" >> read.md
+git init
+git add read.md
+git commit -m "first commit"
+git remote add origin https://github.com/fj2020/test.git    ---gj2020是我注册的github账号的username
+git push -u origin master
 
 
 ```
