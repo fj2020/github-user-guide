@@ -1,4 +1,4 @@
-## 一、github 新手教程
+# 一、github 新手教程
 
 **1、git 新手使用手册: https://www.jianshu.com/p/bf95d885978e**
 
@@ -12,7 +12,7 @@
 
 **6、github 简单使用视频教程：https://www.youtube.com/watch?v=iX_T7EK-Dk0**
 
-## 二、上传本地文件到Github新手教程
+# 二、上传本地文件到Github新手教程
 
 <a href="https://github.com/" target="_blank">github账号注册 官网</a>
  
@@ -41,3 +41,14 @@ git push -u origin master
 6、上传完成后，刷新页面：https://github.com/fj2020/test， 可以看到刚刚readme.md文件，内容为test
 ```
 #### 注意：第一次上传，可能会弹出对话框，需要输入github账号和github密码
+
+
+# 二、上传本地文件到Github新手教程
+
+```bash
+yum -y update
+yum -y install httpd php git
+chkconfig httpd on
+git clone https://github.com/fj2020/simple-web-app.git /var/www/html
+service httpd start
+```
