@@ -43,7 +43,8 @@ git push -u origin master
 #### 注意：第一次上传，可能会弹出对话框，需要输入github账号和github密码
 
 
-# 二、上传本地文件到Github新手教程
+# 三、使用linux从github上面clone文件
+
 
 ```bash
 yum -y update
