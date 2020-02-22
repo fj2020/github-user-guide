@@ -12,7 +12,7 @@
 
 **6、github 简单使用视频教程：https://www.youtube.com/watch?v=iX_T7EK-Dk0**
 
-## github 新手教程总结
+## 上传本地文件到Github新手教程
 
 <a href="https://github.com/" target="_blank">github账号注册 官网</a>
  
@@ -24,7 +24,7 @@
 
 2、本地电脑创建个文件夹，名称任意取，但最好不要使用中文字符，假设文件夹名称为：test
 
-3、本地电脑安装git软件，保持默认安装选项即可,然后在程序中找到，安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功
+3、本地电脑安装git软件，保持默认安装选项即可,安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功
 
 4、安装完成后，还需要最后一步设置，在命令行输入：
 git config --global user.name "Your Name"             ----使用注册github账号的Username
@@ -37,6 +37,5 @@ git add read.md
 git commit -m "first commit"
 git remote add origin https://github.com/fj2020/test.git    ---gj2020是我注册的github账号的username
 git push -u origin master
-
-
 ```
+#### 注意：第一次上传，可能会弹出对话框，需要输入github账号和github密码
