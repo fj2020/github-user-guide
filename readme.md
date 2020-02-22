@@ -37,5 +37,7 @@ git add read.md
 git commit -m "first commit"
 git remote add origin https://github.com/fj2020/test.git    ---gj2020是我注册的github账号的username
 git push -u origin master
+
+6、上传完成后，刷新页面：https://github.com/fj2020/test， 可以看到刚刚readme.md文件，内容为test
 ```
 #### 注意：第一次上传，可能会弹出对话框，需要输入github账号和github密码
