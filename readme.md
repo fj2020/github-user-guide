@@ -1,4 +1,4 @@
-## github 新手教程
+## 一、github 新手教程
 
 **1、git 新手使用手册: https://www.jianshu.com/p/bf95d885978e**
 
@@ -12,7 +12,7 @@
 
 **6、github 简单使用视频教程：https://www.youtube.com/watch?v=iX_T7EK-Dk0**
 
-## 上传本地文件到Github新手教程
+## 二、上传本地文件到Github新手教程
 
 <a href="https://github.com/" target="_blank">github账号注册 官网</a>
  
